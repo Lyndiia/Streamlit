@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 from streamlit_authenticator import Authenticate
 from streamlit_option_menu import option_menu
 
